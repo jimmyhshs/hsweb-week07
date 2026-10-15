@@ -13,6 +13,23 @@
     꼭 들어가야 하는 것: :nth-child  :last-child  border-bottom  list-style
     */
     /* 여기에 CSS를 작성하세요 */
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  padding: 12px 16px;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+li:nth-child(2n) {
+  background: #f9fafb;
+}
+
+li:last-child {
+  border-bottom: none;
+}
   </style>
 </head>
 <body>
