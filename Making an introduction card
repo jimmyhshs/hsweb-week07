@@ -1,0 +1,33 @@
+<style>
+  body {
+    font-family: "Noto Sans KR", sans-serif;
+  }
+  .card {
+    width: 360px;
+    padding: 24px;
+    background-color: #f1f3f5;
+    border: 1px solid #e9ecef;
+    border-radius: 16px;
+    box-sizing: border-box;
+  }
+  .card h1 {
+    color: #1c7ed6;
+    font-size: 26px;
+  }
+  .card img {
+    width: 100%;
+    border-radius: 8px;
+  }
+</style>
+
+<div class="card">
+  <h1>오지미</h1>
+  <img src="https://https://img.freebud.co.kr/shop/data/goods/1745462578853l0.jpg" alt="요즘 취미로 배우고 있어요!">
+  <p>코딩에 대해서 아직은 잘 모르지만 열심히 배워나가보고 싶은 한신대학교 AI•SW계열 학생입니다.</p>
+  <ul>
+    <li>호캉스</li>
+    <li>디저트</li>
+    <li>밴드음악</li>
+  </ul>
+  <a href="https://www.hs.ac.kr" target="_blank" rel="noopener">우리 학교</a>
+</div>
